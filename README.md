@@ -58,13 +58,17 @@ Este projeto oferece uma maneira divertida de entender os conceitos básicos do 
 - Experimente com a construção de um modelo de regressão linear simples.
 - Aprenda a construir uma aplicação web interativa, tudo com Python!
 
+
+  ![image](https://github.com/user-attachments/assets/f193a55c-d880-4183-8f21-8cc431a965d6)
+
+
 ## 🔗 Links Úteis
 
 - [Documentação do Streamlit](https://streamlit.io/docs)
 - [Scikit-Learn - Documentação](https://scikit-learn.org/stable/)
 - [Repositório de exemplo no GitHub](https://github.com/seuusuario/previsao-preco-pizza)
 
-!
+
 
 ---
 
